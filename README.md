@@ -19,8 +19,8 @@ project/ ├── .gitignore ├── eslint.config.js ├── index.html �
 1. Clone the repository:
 
 ```sh
-git clone https://github.com/your-username/advanced-todo-app.git
-cd advanced-todo-app
+git clone https://github.com/SanjayKetham/QuadBTech-application-To-Do.git
+cd --file name--
 ```
 
 2. Install dependencies:
@@ -41,7 +41,7 @@ npm run dev
 yarn dev
 ```
 
-The app will be available at `http://localhost:3000`.
+The app will be available at `http://localhost:5173/`.
 
 ### Building the App
 
