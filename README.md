@@ -19,7 +19,7 @@ project/ ├── .gitignore ├── eslint.config.js ├── index.html �
 1. Clone the repository:
 
 ```sh
-git clone https://github.com/sanjayketham
+git clone https://github.com/SanjayKetham/QuadBTech-application-To-Do.git
 cd --file name--
 
 Running the App
